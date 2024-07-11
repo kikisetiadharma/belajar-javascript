@@ -1,0 +1,14 @@
+{
+  "name": "belajar-javascript",
+  "version": "1.0.0",
+  "description": "aplikasi javascript sanbercode batch 57",
+  "main": "index.js",
+  "scripts": {
+    "test": "node intro.js"
+  },
+  "author": "kikisetiadharma",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
